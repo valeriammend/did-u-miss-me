@@ -1,0 +1,75 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color:#FFFDB0;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 20px;
+  font-size: 40px;
+  font-family:Helvetica; 
+}
+
+.header{
+  position: relative;
+}
+
+.title {
+  position: absolute;
+}
+
+model-viewer {
+  width: 100%;
+  height: 40vh;
+  margin: 0 auto;
+  position: absolute;
+}
+
+
+.pop-up {
+  display: flex;
+  margin-top: -6vh;
+}
+
+.first {
+  display: flex;
+  width: 180px;
+  height: 108px;
+}
+.second {
+  display: flex;
+  width: 190px;
+  height: 110px;
+}
+.third {
+  display: flex;
+  width: 150px;
+  height: 114px;
+  
+}
+.fourth {
+  display: flex;
+  width: 180px;
+  height: 130px;
+}
+
+.fith {
+  display: flex;
+}
+
+
+
