@@ -42,34 +42,29 @@ model-viewer {
 
 
 .pop-up {
-  display: flex;
   margin-top: -6vh;
 }
 
 .first {
-  display: flex;
   width: 180px;
   height: 108px;
 }
 .second {
-  display: flex;
   width: 190px;
   height: 110px;
 }
 .third {
-  display: flex;
   width: 150px;
   height: 114px;
   
 }
 .fourth {
-  display: flex;
   width: 180px;
   height: 130px;
 }
 
 .fith {
-  display: flex;
+ with:auto;
 }
 
 .text {
